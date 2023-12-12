@@ -6,7 +6,7 @@ This is a Java application that I built with Gradle using the [sample_building_j
 
 This app does some amazing things, such as:
 
-- **Feature 1**: Dreates a hello world Java App
+- **Feature 1**: Creates a hello world Java App
 - **Feature 2**: Tests the app to ensure it is working properly 
 - **Feature 3**: Archives the app with its dependencies
 
